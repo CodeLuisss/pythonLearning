@@ -7,8 +7,10 @@ print(novo_salario)
 
 ###################################################
 
-velocidade = 80
+velocidade1 = 80
+velocidade2 = 90
+velocidade3 = 60
 
 limite = 60
 
-print(velocidade < limite)
+print(velocidade1 < limite)
